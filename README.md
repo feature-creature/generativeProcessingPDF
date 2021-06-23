@@ -1,4 +1,6 @@
 # generative PDFs with Processing
 
-Example for using JSON data to create a generative pdf with Processing.
+Example for creating generative pdf publications with Processing and JSON data.
+
+
 P5js equivalent here: https://editor.p5js.org/dema/sketches/gAQCFqRbU.
