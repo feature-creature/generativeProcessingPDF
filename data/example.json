@@ -1,0 +1,63 @@
+[
+  {
+    "image":"./images/1.png",
+    "author":"Matsuo Bashō",
+    "title":"The Old Pond",
+    "text":"An old silent pond \nA frog jumps into the pond \nSplash! Silence again."
+  },
+  {
+    "image":"./images/2.png",
+    "author":"Kobayashi Issa",
+    "title":"A World of Dew",
+    "text":"A world of dew, \nAnd within every dewdrop \nA world of struggle."
+  },
+  {
+    "image":"./images/3.png",
+    "author":"Yosa Buson",
+    "title":"Lighting One Candle",
+    "text":"The light of a candle \nIs transferred to another candle \nSpring twilight"
+  },
+  {
+    "image":"./images/4.png",
+    "author":"Katsushika Hokusai",
+    "title":"A Poppy Blooms",
+    "text":"I write, erase, rewrite \nErase again, and then \nA poppy blooms."
+  },
+  {
+    "image":"./images/5.png",
+    "author":"Natsume Sōseki",
+    "title":"Over the Wintry",
+    "text":"Over the wintry \nForest, winds howl in rage \nWith no leaves to blow."
+  },
+  {
+    "image":"./images/6.png",
+    "author":"Ezra Pound",
+    "title":"In a Station of the Metro",
+    "text":"The apparition \nof these faces in the crowd; \nPetals on a wet, black bough."
+  },
+  {
+    "image":"./images/7.png",
+    "author":"Jack Kerouac",
+    "title":"The Taste of Rain",
+    "text":"The taste \nOf rain \nWhy kneel?"
+  },
+  {
+    "image":"./images/8.png",
+    "author":"Sonia Sanchez",
+    "title":"For You",
+    "text":"love between us is \nspeech and breath. loving you is \na long river running."
+  },
+  
+  {
+    "image":"./images/9.png",
+    "author":"Ravi Shankar",
+    "title":"Lines on a Skull",
+    "text":"Life’s little, our heads \nsad. Redeemed and wasting clay \nthis chance. Be of use."
+  },
+  {
+    "image":"./images/10.png",
+    "author":"Joyce Clement",
+    "title":"Birds Punctuate the Days",
+    "text":"Period \nOne blue egg all summer long \nNow gone"
+  }
+]
